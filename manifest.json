@@ -1,6 +1,6 @@
 {
-  "name": "Magrabi AI",
-  "short_name": "Magrabi AI",
+  "name": "Memory Game",
+  "short_name": "Memory Game",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
